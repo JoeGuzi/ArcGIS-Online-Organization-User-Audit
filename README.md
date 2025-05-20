@@ -6,10 +6,14 @@ Purpose:This script will go through an entire ArcGIS Online Organization or a Po
 
 Authored by: Joe Guzi
 
-Previous Production Date: 8/22/19
+Previous Production Date: 2/23/25
 
-Production Date: 8/12/24
+Production Date: 2/25/25
 
 Notes:
 
 8/12/24 --- added Audit Template
+
+2/23/25 --- Updated for the ArcGIS Python API version 2.4 update
+
+2/25/25 --- Added optional code to upload results to AGO
